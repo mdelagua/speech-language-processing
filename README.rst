@@ -168,6 +168,9 @@ Speech Recognition
 - `RASR <http://www-i6.informatik.rwth-aachen.de/rwth-asr/>`_ RWTH ASR - The
   RWTH Aachen University Speech Recognition System
 
+- `TLK <https://www.translectures.eu/web/tlk/>`_ TransLectures Toolkit - The
+  TransLectures-UPV ASR Toolkit from Universitat Politècnica de València
+
 Signal Processing
 --------------------
 
